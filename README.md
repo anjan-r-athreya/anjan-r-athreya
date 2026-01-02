@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Anjan! 👋
 
 cs & applied math @ stony brook
 
