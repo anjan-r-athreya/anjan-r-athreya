@@ -8,10 +8,10 @@ In my free time, I enjoy making things and going down rabbit holes in math, ML, 
 
 Some things I’m well familiar with:
 
-📱 Building mobile apps with SwiftUI, MapKit, CoreLocation, and Mapbox
-🧠 Machine learning & NLP with Python, HuggingFace, and real-world datasets
-🌍 Geospatial & backend systems using Python, ETL pipelines, APIs, and AWS
-🛠️ General software dev with Java, JavaScript, Git, and full-stack workflows
+- Building mobile apps with SwiftUI, MapKit, CoreLocation, and Mapbox
+- Machine learning & NLP with Python, HuggingFace, and real-world datasets
+- Geospatial & backend systems using Python, ETL pipelines, APIs, and AWS
+- General software dev with Java, JavaScript, Git, and full-stack workflows
 
 DON’T LEAVE YET — check these out 😊
 
