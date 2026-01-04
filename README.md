@@ -13,7 +13,7 @@ Some things I’m well familiar with:
 - Geospatial & backend systems using Python, ETL pipelines, APIs, and AWS
 - General software dev with Java, JavaScript, Git, and full-stack workflows
 
-DON’T LEAVE YET — check these out 😊
+STAY FOR A BIT LONGER! — check these out 😊
 
 Circular — https://github.com/anjan-r-athreya/Circular
 
