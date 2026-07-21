@@ -28,7 +28,7 @@
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> &nbsp;whoami
+## 🧑‍💻 &nbsp;whoami
 
 ```yaml
 name:        Anjan Athreya
@@ -43,7 +43,7 @@ mission:     Build software that turns research into things people actually use
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> &nbsp;Experience
+## 💼 &nbsp;Experience
 
 <table>
 <tr>
@@ -68,7 +68,14 @@ mission:     Build software that turns research into things people actually use
 </td>
 </tr>
 <tr>
-<td width="140" valign="top"><b>2024</b><br/><sub>Summer</sub></td>
+<td width="140" valign="top"><b>Jun–Aug 2025</b><br/><sub>3 mos</sub></td>
+<td valign="top">
+  <b>CS STEM Instructor Intern</b> — Lavner Education &nbsp;·&nbsp; <sub>Fairfield, CT · On-site</sub><br/>
+  Taught <b>Python, ML, and AI</b> to 15–20 students per class, guiding <b>100+ hands-on projects</b> with real-time debugging support; designed a project-based curriculum spanning <b>10+ CS fundamentals</b> (data structures, time complexity, OOP). Kept 80+ devices running (−1 hr downtime each) and volunteered 5–10 hrs/wk of 1-on-1 tutoring.
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><b>Summer 2024</b><br/><sub>Internship</sub></td>
 <td valign="top">
   <b>Software Development Intern</b> — LightBox Environmental Data Resources &nbsp;·&nbsp; <sub>Shelton, CT</sub><br/>
   Automated geospatial <b>ETL pipelines</b> across all 50 U.S. states (−25% preprocessing) and built Geo-JSON visualizations on the LightBox REST API + ESRI ArcGIS.
@@ -81,7 +88,7 @@ mission:     Build software that turns research into things people actually use
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/W5eOYmiT8Yb3jVDVEl/giphy.gif" width="26"> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <table>
 <tr>
@@ -124,7 +131,7 @@ Always building at the intersection of **AI tooling** and **real products**. Sta
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -168,16 +175,16 @@ Always building at the intersection of **AI tooling** and **real products**. Sta
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/P3Q1Ic5v6XZ26tPl/giphy.gif" width="26"> &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjan-r-athreya&show_icons=true&count_private=true&hide_border=true&title_color=26d0ce&icon_color=1a2980&text_color=808080&bg_color=00000000" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anjan-r-athreya&hide_border=true&ring=26d0ce&fire=1a2980&currStreakLabel=26d0ce&background=00000000&stroke=808080" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjan-r-athreya&show_icons=true&count_private=true&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=E6EDF3&bg_color=0D1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anjan-r-athreya&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E&stroke=A855F7" alt="GitHub Streak" />
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjan-r-athreya&layout=compact&hide_border=true&title_color=26d0ce&text_color=808080&bg_color=00000000&langs_count=8" alt="Top Languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjan-r-athreya&layout=compact&hide_border=true&title_color=C084FC&text_color=E6EDF3&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 
 </div>
 
